@@ -1,1 +1,3 @@
  prueba 12345565
+
+ Visual Basic define constantes para simplificar la programación. Puedes consultar “Constantes de Visual Basic" para conocer todas las constantes definidas, que se agrupan en constantes de color, Calendar, del compilador, de fecha, Dir, GetAttr y SetAttr, IMEStatus, Instr, StrComp, de código de teclas, MsgBox, QueryClose, Shell, StrConv, de color del sistema, VarType y otras.

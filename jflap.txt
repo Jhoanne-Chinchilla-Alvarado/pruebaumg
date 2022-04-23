@@ -13,12 +13,4 @@ MsgBox ("22 salones" & Chr(13) & Chr(10) & "4321 camarotes")
 c) Caso 3
 MsgBox ("19 salones" & Chr(6) & Chr(9) & "4365 camarotes")
 
-a) Caso 1
-MsgBox ("22 salones" & vbCrLf & "4321 camarotes")
-
-b) Caso 2
-MsgBox ("22 salones" & Chr(13) & Chr(10) & "4321 camarotes")
-
-c) Caso 3
-MsgBox ("19 salones" & Chr(6) & Chr(9) & "4365 camarotes")
 

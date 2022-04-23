@@ -1,0 +1,11 @@
+Hola buenas noches
+
+Visual Basic define constantes para simplificar la programación. Puedes consultar “Constantes de Visual Basic" para conocer todas las constantes definidas, que se agrupan en constantes de color, Calendar, del compilador, de fecha, Dir, GetAttr y SetAttr, IMEStatus, Instr, StrComp, de código de teclas, MsgBox, QueryClose, Shell, StrConv, de color del sistema, VarType y otras.
+
+Sólo citaremos algunas constantes que juzgamos interesantes. Una de ellas es vbCrLf, una constante que supone una indicación de salto de línea y retorno de carro. Cuando se introduce esta constante, equivale a una pulsación de enter. Su equivalente usando código ASCII es Chr(13) + Chr(10). Es decir, podemos escribir tanto una cosa como otra, resultando equivalentes. El interés de las constantes es que suelen resultar más sencillas de usar que su escritura con otro tipo de código. Prueba estos códigos y comprobarás que hacen lo mismo:
+
+MsgBox ("22 salones" & vbCrLf & "4321 camarotes")
+
+b) Caso 2
+MsgBox ("22 salones" & Chr(13) & Chr(10) & "4321 camarotes")
+

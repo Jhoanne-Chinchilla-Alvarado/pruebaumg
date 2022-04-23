@@ -1,3 +1,7 @@
 Prueba 1.1 
 
-Prueba Software 
+Prueba Software '
+
+Visual Basic define constantes para simplificar la programación. Puedes consultar “Constantes de Visual Basic" para conocer todas las constantes definidas, que se agrupan en constantes de color, Calendar, del compilador, de fecha, Dir, GetAttr y SetAttr, IMEStatus, Instr, StrComp, de código de teclas, MsgBox, QueryClose, Shell, StrConv, de color del sistema, VarType y otras.
+
+ Github permite que los desarrolladores alojen proyectos creando repositorios de forma gratuita. Pero hay que tener una cosa en mente, y es que para poder subir gratis los proyectos deberán ser de código abierto. Y no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada.
